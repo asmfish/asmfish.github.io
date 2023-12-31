@@ -1,6 +1,18 @@
+html{
+  font-size: 16px;
+}
+
 div {
   width: 60%;
   background-color: #5ae283;
   margin: 0 auto;
   color: #000;
+}
+
+ol {
+  padding: 1rem;
+}
+
+ol li {
+  padding .5rem
 }
