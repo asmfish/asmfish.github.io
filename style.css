@@ -7,8 +7,9 @@ body{
 }
 
 h1 {
-    width: 60%;
-    margin: 0 auto;
+  width: 60%;
+  margin: 0 auto;
+  color: white;
 }
 
 div {
