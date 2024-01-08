@@ -1,5 +1,22 @@
+html{
+  font-size: 16px;
+}
+
+h1 {
+    width: 60%;
+}
+
 div {
   width: 60%;
-  background-color: #FFA500;
+  background-color: #5ae283;
   margin: 0 auto;
+  color: #000;
+}
+
+ol {
+  padding: 1rem;
+}
+
+ol li {
+  margin: .5rem
 }
